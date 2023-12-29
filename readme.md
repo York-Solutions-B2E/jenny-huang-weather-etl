@@ -1,3 +1,8 @@
+### DETAILS ABOUT TEMP STATS
+* Temperature mean and median were calculated from the TEMP column
+* TEMP_min is the monthly average of the MIN column, and TEMP_max is the monthly average of the MAX column
+* All stats were calculated with missing values ( = 999.9 or 99.99 depending on var) removed
+
 ### ASSIGNMENT INSTRUCTIONS!
 
 Dear Data Science Team,
